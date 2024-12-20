@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @paucimi
+- 👋 Hi, I’m Paola León @paucimi
 - 👀 I'm into tech and trying to live a more mindful life 🫱🏽‍🫲🏽.
 - 🌱 I’m currently learning Big Data, Data Science, Machine Learning & IA.
 - 💞️ I’m looking to collaborate on projects and learn.
